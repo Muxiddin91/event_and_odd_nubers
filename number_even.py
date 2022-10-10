@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of even digits in it.
-var_int=2222
+var_int=2223
 a=(var_int%10)%2
 b=((var_int%100)//10%2)
 c=((var_int%1000)//100%2)
